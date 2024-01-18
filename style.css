@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: column;
+}
+
+button {
+    width: 200px;
+}
+
+div.parent {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+div.child {
+    width: 50px;
+    height: 50px;
+    border: 1px solid aqua;
+    padding: 5px;
+    margin: 10px;
+}
